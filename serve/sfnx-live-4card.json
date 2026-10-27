@@ -42,5 +42,6 @@
   "top_p": 0.95,
   "presence_penalty": 1.0
  },
- "reasoning_close_retry": true
+ "reasoning_close_retry": true,
+ "api_key": "bxr4Rv#4NrWZJv"
 }
